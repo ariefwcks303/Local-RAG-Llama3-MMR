@@ -58,6 +58,8 @@ Sistem diuji dengan pertanyaan: _"Apa manfaat Generative AI bagi mahasiswa?"_
 - Sistem berhasil melakukan **sintesis informasi** dari Halaman 1 (pendahuluan), Halaman 12 (aspek teknis), dan Halaman 13 (aspek praktis).
 - **Verifikasi Referensi:** Output secara eksplisit mencantumkan nomor halaman sumber, sehingga pengguna dapat melakukan _cross-check_ langsung ke dokumen asli.
 
+![Hasil RAG System](Result-RAG.png)
+
 ## 🚀 Kesimpulan & Pengembangan Kedepan
 
 Proyek ini membuktikan bahwa sistem AI yang kuat tidak harus mahal. Dengan teknik kuantisasi dan strategi retrieval yang tepat, kita bisa membangun asisten AI yang cerdas, privat, dan akurat di infrastruktur gratis/murah.
